@@ -2,3 +2,5 @@
 刷网课：https://docs.ocsjs.com
 
 MIT Introtodeeplearning：https://introtodeeplearning.com/#schedule
+
+OpenCourse/Model：https://huggingface.co/welcome
